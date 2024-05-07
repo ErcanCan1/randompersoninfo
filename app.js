@@ -1,6 +1,6 @@
 import get from "./components/getElement.js";
-import getUser from "./components/fetchUser";
-import displayUser from "./components/displayUser";
+import getUser from "./components/fetchUser.js";
+import displayUser from "./components/displayUser.js";
 
 
 
